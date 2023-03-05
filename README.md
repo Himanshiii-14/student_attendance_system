@@ -3,22 +3,23 @@
 Student Attendance System
 This is a simple student attendance system created using React, Tailwind, and local storage. It allows users to input student information, such as name and roll number, and record their check-in and check-out times. The system also keeps track of how many students are present in the school at any given time.
 
-Features
+Features:
 
-Add new students to the system
+1.Add new students to the system
 
-Record student check-in and check-out times
+2.Record student check-in and check-out times
 
-Remove students from the system
+3.Remove students from the system
 
-View a list of present students with their information and check-in/out times
+4.View a list of present students with their information and check-in/out times
 
-See the number of students currently present in the school
+5.See the number of students currently present in the school
+
 
 Technologies Used
 
-React
+1.React
 
-Tailwind CSS
+2.Tailwind CSS
 
-JavaScript
+3.JavaScript
