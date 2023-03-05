@@ -16,6 +16,8 @@ Features:
 5.See the number of students currently present in the school
 
 
+
+
 Technologies Used
 
 1.React
